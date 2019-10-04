@@ -19,7 +19,7 @@ Looking to to find out further information about the NFL 100th season.
 The website is designed to lead the user down through the page to find more information about the NFL. 
 As the person makes their way down the page the learn about the rules of the nfl from the rookie guide.
 Following this there are some more links to find further information about the NFL.
-Afer the links there is an advert and description explaining about the 100th NFL season 
+After the links there is an advert and description explaining about the 100th NFL season 
 At the end they have the option to make contact us through the contact form provided at the bottom, if they hae any questions.
 
 <h2>User Stories</h2>
