@@ -1,6 +1,6 @@
 <h1>TouchDown</H1>
 
-Please click her to visit a live demo of my project https://zombietiko.github.io/First_Milestone_Project_NFL_Fan_Page/
+Please click her to visit a live demo of my project https://zombietiko.github.io/TouchDown-My1stMileStoneProject/.
 
 My First Milestone Project for Code Institute is a website idea is to create a fan page about the National Football League (American Football).
 I have been an avid fan for years and wanted to create a fan page to help new and exsisting fans understand further about the NFL.
@@ -18,28 +18,28 @@ Looking to to find out further information about the NFL 100th season.
 
 The website is designed to lead the user down through the page to find more information about the NFL. 
 As the person makes their way down the page the learn about the rules of the nfl from the rookie guide.
-Following this there are some more links to find further information abou the NFL.
+Following this there are some more links to find further information about the NFL.
 Afer the links there is an advert and description explaining about the 100th NFL season 
 At the end they have the option to make contact us through the contact form provided at the bottom, if they hae any questions.
 
 <h2>User Stories</h2>
 
-•	As a user, I want to know what the NFL is.
-•	As a user, I want to see a guide to understand the game of American football.
-•	As a user, I want to be able to find more information about the NFL.
+<p>•As a user, I want to know what the NFL is.</P>
+<p>•As a user, I want to see a guide to understand the game of American football.</p>
+<p>•As a user, I want to be able to find more information about the NFL.</p>
 
 
 
 <h1>Technologies</h1>
 
-•	Html
-•	CSS
-•	Cloud9 - Used for a development and testing area.
-•	Bootstrap - Bootstrap framework to create responsive design and font awesome for social icon.
-•	Vimeo - Used a video to present the rookie guide.
-•	YouTube - Used a video to present the NFL 100th  year advert.
-•	jQuery - To make certain features function on the page.
-•	git- Used as a repository.
+<p>•Html</p>
+<p>•CSS</P>
+<p>•Cloud9 - Used for a development and testing area.</P>
+<p>•Bootstrap - Bootstrap framework to create responsive design and font awesome for social icon.</P>
+<p>•Vimeo - Used a video to present the rookie guide.</P>
+<p>•YouTube - Used a video to present the NFL 100th  year advert.</P>
+<p>•jQuery - To make certain features function on the page.</P>
+<p>•git- Used as a repository.</P>
 
 
 <h1> Features </h1>
@@ -67,12 +67,12 @@ Allows the customer to connect and follow the nfl other pages.
 
 <h1> Testing </h1>
 
-•	I Used Google Chrome developer tools to test website responsiveness across multiple devices such as Tablets and Mobiles.
-•	Tested the contact form for the required attribute. With this attribute it will not let you submit the form with the required information. 
-•	To test this I tried to send the form without the required information but was not let until all information was given correctly.
-•	Tested that the smooth scroll worked when clicking on the links in the Navbar. This had to be done on all on tablets and phones too.
-•	Tested the link buttons to ensure they responded correctly. I tested these to make sure they open in a new page on devices.
-•	Used W3c validator to validate both HTML and CSS. I copied my code and pasted it into the validator to check for errors and warnings.
+<p>•I Used Google Chrome developer tools to test website responsiveness across multiple devices such as Tablets and Mobiles.</P>
+<p>•Tested the contact form for the required attribute. With this attribute it will not let you submit the form with the required information.</P> 
+<p>•To test this I tried to send the form without the required information but was not let until all information was given correctly.</P>
+<p>•Tested that the smooth scroll worked when clicking on the links in the Navbar. This had to be done on all on tablets and phones too.</P>
+<p>•Tested the link buttons to ensure they responded correctly. I tested these to make sure they open in a new page on devices.</P>
+<p>•Used W3c validator to validate both HTML and CSS. I copied my code and pasted it into the validator to check for errors and warnings.</P>
 
 
 
