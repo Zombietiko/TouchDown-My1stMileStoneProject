@@ -44,25 +44,24 @@ At the end they have the option to make contact us through the contact form prov
 
 <h1> Features </h1>
 
-Feature 1 – Scroll spy Navigation Bar
-The navigation bar changes colour as you scroll down the page. This allows the user to know easily where they are on the page. 
-This collapses into a 'burger icon' dropdown menu in mobile screen sizes to reduce over-crowding and improve user experience.
+<p>Feature 1 – Scroll spy Navigation Bar</p>
+<p>The navigation bar changes colour as you scroll down the page. This allows the user to know easily where they are on the page. 
+This collapses into a 'burger icon' dropdown menu in mobile screen sizes to reduce over-crowding and improve user experience.</p>
 
-Feature 2 – Jumbotron with Find out more button
-This feature brings the potential customer to the about section on my page.
+<p>Feature 2 – Jumbotron with Find out more button</p>
+This feature brings the potential customer to the about section on my page.</p>
 
-Feature 3 – Embedded Video
-If the user is new to American Football, this guide will help them to understand the game.
+<p>Feature 3 – Embedded Video</p>
+If the user is new to American Football, this guide will help them to understand the game.</p>
 
-Feature 4  - NFL Links
+<p>Feature 4  - NFL Links</p>
+If the user wasnts to find more informaion about NFL 100th Season / NFL UK / The New NFL Academy / NFL.com (American Website)</p>
 
-If the user wasnts to find more informaion about NFL 100th Season / NFL UK / The New NFL Academy / NFL.com (American Website)
+<p>Feature 6 – Contact Form</p>
+Allows users to ask questions about american football for us to answer.</p>
 
-Feature 6 – Contact Form
-Allows users to ask questions about american football for us to answer.
-
-Feature 7 – Social media icons in footer
-Allows the customer to connect and follow the nfl other pages.
+<p>Feature 7 – Social media icons in footer</p>
+Allows the customer to connect and follow the nfl other pages.</p>
 
 
 <h1> Testing </h1>
