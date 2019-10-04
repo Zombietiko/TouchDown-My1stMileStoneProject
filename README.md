@@ -1,6 +1,6 @@
 <h1>TouchDown</H1>
 
-Please click her to visit a live demo of my project https://zombietiko.github.io/First_Milestone_Project_NFL_Fan_Page/
+Please click her to visit a live demo of my project https://zombietiko.github.io/TouchDown-My1stMileStoneProject/.
 
 My First Milestone Project for Code Institute is a website idea is to create a fan page about the National Football League (American Football).
 I have been an avid fan for years and wanted to create a fan page to help new and exsisting fans understand further about the NFL.
